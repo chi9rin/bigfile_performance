@@ -88,3 +88,5 @@ compile_commands.json
 CTestTestfile.cmake
 
 hogehoge.txt
+
+cmake-build-debug/
